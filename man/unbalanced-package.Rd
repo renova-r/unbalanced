@@ -34,7 +34,8 @@ The work of Andrea Dal Pozzolo is supported by the Doctiris scholarship of Innov
 2. Birattari, Mauro, et al. "A Racing Algorithm for Configuring Metaheuristics."GECCO. Vol. 2. 2002.
 }
 
-\keyword{unbalanced datasets, imbalanced learning}
+\concept{unbalanced datasets}
+\concept{imbalanced learning}
 
 
 \seealso{

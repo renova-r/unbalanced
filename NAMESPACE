@@ -1,2 +1,4 @@
 import("RANN","FNN", "mlr", "foreach", "doParallel")
+importFrom("stats", "p.adjust", "pchisq", "predict", "qt", "quantile",
+           "runif", "sd", "t.test", "wilcox.test")
 exportPattern("^[[:alpha:]]+")
